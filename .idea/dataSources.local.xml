@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - donateme@localhost" uuid="db5c5769-e75d-4df7-b9a8-c39522c82b4e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>donateme.*</schema-pattern>
+      <default-schemas>donateme.*</default-schemas>
+    </data-source>
+  </component>
+</project>
